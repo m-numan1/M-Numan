@@ -1,3 +1,3 @@
 ### Hi 
 
-rahuldkjain/github-profile-readme-generator
+m-numan/github-profile-readme-generator
